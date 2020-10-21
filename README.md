@@ -1,68 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview:
 
-## Available Scripts
+Your task is develop a Organization registration form as given in the mock up enclosed below. The form has three sections and user has to be taken to the registered successfully page(**Can be your own design**). 
 
-In the project directory, you can run:
+## Design:
 
-### `npm start`
+Please refer the below Figma link for your task.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[https://www.figma.com/file/H72fa5DgChYza7dD2bBzFS/SQA-Interview-Dev-Task---Level-1?node-id=0%3A1](https://www.figma.com/file/H72fa5DgChYza7dD2bBzFS/SQA-Interview-Dev-Task---Level-1?node-id=0%3A1)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Dev Requirements:
 
-### `npm test`
+You can use any frontend framework of your choice. Following are your dev requirements.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Mockup conversion rate of above 80% percent is expected.
+2. Form Validations has to be done.
+3. Once the user clicks on the **Verify** button, all the filled in details has to be stored either in **LocalStorage/PouchDB.**
+4. After the above step, user has to redirected to a success page which can be a design of your own choice.
 
-### `npm run build`
+## Review Requirements:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+1. Code has to be hosted in [*https://www.github.com*](https://www.github.com) and the link of the repo has to be shared.
+2. The working demo of the app should be deployed in any of the hosting platform like [*heroku](https://www.heroku.com) / [netlify](https://www.netlify.com) .* The link of the working demo has to be shared for review.
+3. Loom / ScreenCast video of you explaining the workflow of the app has to be shared for review.
