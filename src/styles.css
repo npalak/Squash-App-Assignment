@@ -1,0 +1,14 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .divClass {
+    border: 2px solid black;
+    width: 50%;
+    justify-content: center;
+    margin-left: 25%;
+    background-color: grey;
+    text-align: center;
+  }
+  
